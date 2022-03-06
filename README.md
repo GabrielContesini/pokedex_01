@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/5b/8a/65/5b8a659833dfc3585c4f76dc3c64da17.jpg" alt="prokedex">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Imagem da página desenvolvida, projeto na brench Master !
 
 ### Ajustes e melhorias
 
